@@ -7,6 +7,7 @@ Fundamentals of Distributed Systems Assignment-1
 
 2. Smart Grid Load Balancer: Dynamically routes EV charging load using Prometheus & Grafana.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🔁 **Part 1: Vector Clock Key-Value Store**
 
