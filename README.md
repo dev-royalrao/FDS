@@ -9,6 +9,7 @@ Fundamentals of Distributed Systems Assignment-1
 
 
 🔁 **Part 1: Vector Clock Key-Value Store**
+
 A distributed key-value store implemented in Python that maintains causal consistency using vector clocks. Each node tracks logical time and ensures that dependent events are delivered in the correct order across the system. Out-of-order messages are buffered until their causal dependencies are met.
 
 ✅ Features:
@@ -20,6 +21,7 @@ A distributed key-value store implemented in Python that maintains causal consis
 5. Demonstrates correctness through a causal test scenario
 
 ⚡ **Part 2: Smart Grid Dynamic Load Balancer**
+
 A Python-based distributed system that simulates a smart grid for balancing electric vehicle (EV) charging requests across multiple substations. The system monitors real-time load using Prometheus and intelligently routes requests to the least-loaded substation using a custom load balancer.
 
 ✅ Features:
